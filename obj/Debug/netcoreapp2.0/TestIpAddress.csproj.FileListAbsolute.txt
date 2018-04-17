@@ -1,0 +1,11 @@
+C:\Users\Geekseat\TestIpAddress\bin\Debug\netcoreapp2.0\TestIpAddress.deps.json
+C:\Users\Geekseat\TestIpAddress\bin\Debug\netcoreapp2.0\TestIpAddress.runtimeconfig.json
+C:\Users\Geekseat\TestIpAddress\bin\Debug\netcoreapp2.0\TestIpAddress.runtimeconfig.dev.json
+C:\Users\Geekseat\TestIpAddress\bin\Debug\netcoreapp2.0\TestIpAddress.dll
+C:\Users\Geekseat\TestIpAddress\bin\Debug\netcoreapp2.0\TestIpAddress.pdb
+C:\Users\Geekseat\TestIpAddress\obj\Debug\netcoreapp2.0\TestIpAddress.csprojResolveAssemblyReference.cache
+C:\Users\Geekseat\TestIpAddress\obj\Debug\netcoreapp2.0\TestIpAddress.csproj.CoreCompileInputs.cache
+C:\Users\Geekseat\TestIpAddress\obj\Debug\netcoreapp2.0\TestIpAddress.AssemblyInfoInputs.cache
+C:\Users\Geekseat\TestIpAddress\obj\Debug\netcoreapp2.0\TestIpAddress.AssemblyInfo.cs
+C:\Users\Geekseat\TestIpAddress\obj\Debug\netcoreapp2.0\TestIpAddress.dll
+C:\Users\Geekseat\TestIpAddress\obj\Debug\netcoreapp2.0\TestIpAddress.pdb
